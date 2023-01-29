@@ -33,3 +33,10 @@ Only one sorting algorithm can be tested at a time
 All cases will be of a different color/style
 - User can select point or lines for tests output on graph
 - User can add a trend for each case (n, n² or nlogn)
+
+## Preview
+
+![](./previewExamples/testsconfig.png)
+![](./previewExamples/outputconfig.png)
+![](./previewExamples/choosetrend.png)
+![](./previewExamples/output.png)
