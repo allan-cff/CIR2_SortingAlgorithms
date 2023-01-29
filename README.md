@@ -1,6 +1,6 @@
 # Code & PDF submission for a group project, start of year 2, ISEN Nantes
 
-## This project was carried out with Mathias Paitier, Raphaël Fosse & Maxime Chauveau
+## This project was carried out with Mathias Paitier, Raphaël Fosse & [Maxime Chauveau](https://github.com/Mexiam)
 
 The main goal was to analyze some sorting algorithms and write a report in english, the code was not evaluated
 
